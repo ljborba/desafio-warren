@@ -111,10 +111,12 @@ __5º__ Digite no terminal o seguinte comando para executar o código, que será
 	
 <hr>
 
-<h3>MENU</h3>
+<h3>Desafios</h3>
 
 <a href="https://github.com/ljborba/desafio-warren/tree/main/desafio_01/primeiroProjeto" target="_blank">Desafio_01</a>
+
 <a href="https://github.com/ljborba/desafio-warren/tree/main/desafio_02/segundoProjeto" target="_blank">Desafio_02</a>
+
 <a href="https://github.com/ljborba/desafio-warren/tree/main/desafio_03/terceiroProjeto" target="_blank">Desafio_03<a/>
 
 
