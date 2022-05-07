@@ -1,18 +1,13 @@
-## Getting Started
+<h3>Instruções para executar os Desafios</h3>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h4>Desafio_02</h4>
 
-## Folder Structure
+__1º__ Abra no VS CODE a pasta "segundoProjeto" em "desafio_02".
 
-The workspace contains two folders by default, where:
+__2º__ Clique no arquivo "RunAppDois.java" em "exericio".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+__3º__ Executar o código no botão "Run Java" no canto superior direito.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![runjava](https://user-images.githubusercontent.com/59028003/167273155-00249779-292a-43a7-88e5-749a84620266.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+__5º__ Você irá inserir os dados solicitados no Terminal(Será aberto após o clique no botão run java), em seguida, o resultado será exibido.
