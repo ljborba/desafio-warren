@@ -1,18 +1,21 @@
-## Getting Started
+<h3>Instruções para executar os Desafios</h3>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h4>Desafio_01</h4>
 
-## Folder Structure
+__1º__  Abra no VS CODE a pasta "primeiroProjeto" em "desafio_01".
 
-The workspace contains two folders by default, where:
+__2º__  Clique no arquivo "RunApp.java" em "exericio".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+__3º__  Em "Patch caminho" linha de código 10, altere o caminho de diretório que o arquivo "teste.txt" será salvo contendo o resultado. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+__Ex__: C:\\Users\\natha\\OneDrive\\Documentos\\desafio_01\\primeiroProjeto\\teste.txt
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+__4º__  Executar o código no botão "Run Java" no canto superior direito.
 
-## Dependency Management
+![runjava](https://user-images.githubusercontent.com/59028003/167273155-00249779-292a-43a7-88e5-749a84620266.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+__5º__ Abra o arquivo "teste.txt" onde ficará salvo o resultado da execução do código.
+
+__IMPORTANTE:__
+
+Certifique-se de que, o arquivo "teste.txt" esteja no diretório correto em "Patch caminho" na linha de código 10, como diz o 3º passo.
