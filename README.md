@@ -51,6 +51,8 @@ Caso Ocorra de não executar os desafio_01 e desafio_02 no VS CODE, certifique-s
 
 __Perfeito, agora seu computador esta preparado para executar os Desafios propostos!__ :clap: :relieved:
 
+<hr>
+
 <h3>Instruções para executar os Desafios</h3>
 
 <h4>Desafio_01</h4>
@@ -73,6 +75,8 @@ __IMPORTANTE:__
 
 Certifique-se de que, o arquivo "teste.txt" esteja no diretório correto em "Patch caminho" na linha de código 10, como diz o 3º passo.
 
+<hr>
+
 <h4>Desafio_02</h4>
 
 __1º__ Abra no VS CODE a pasta "segundoProjeto" em "desafio_02".
@@ -85,6 +89,22 @@ __3º__ Executar o código no botão "Run Java" no canto superior direito.
 
 __5º__ Você irá inserir os dados solicitados no Terminal(Será aberto após o clique no botão run java), em seguida, o resultado será exibido.
 
+<hr>
+
 <h4>Desafio_03</h4>
 
-__1º__ 
+__1º__ Abra no VS CODE a pasta "terceiroProjeto" em "desafio_03".
+
+__2º__ Clique no arquivo "script.js".
+
+__3º__ Abra o Terminal do VS CODE no canto superior.
+
+![terminal](https://user-images.githubusercontent.com/59028003/167274670-b988766d-f488-4713-adbb-950e61436fe2.png)
+
+__4º__ Digite no terminal o seguinte comando para verificar se o Node Js foi instalado corretamente.
+	- node --version
+
+__5º__ Digite no terminal o seguinte comando para executar o código, que será exibido em seguida o resultado do desafio.
+	- node script.js
+	
+__Feito por: Lucas Janing__
