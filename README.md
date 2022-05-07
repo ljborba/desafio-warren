@@ -12,6 +12,7 @@ Fazer o download do arquivo "Desafio-Warren".
 __2º Passo:__
 
 Instalar o VS CODE(Editor de código-fonte) para execução dos desafios(Escolha seu sistema operacional, 64bits ou 32bits).
+
 https://code.visualstudio.com/download
 
 __3º Passo:__
