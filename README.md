@@ -6,8 +6,7 @@ __1º Passo:__
 
 Fazer o download do arquivo "Desafio-Warren".
 
-![downloadZip](https://user-images.githubusercontent.com/59028003/167271475-78cf85bf-b7ca-456e-84a8-42594ed41ca1.PNG)
-
+ <img src="https://user-images.githubusercontent.com/59028003/167271475-78cf85bf-b7ca-456e-84a8-42594ed41ca1.PNG" style="width: 600px">
 
 __2º Passo:__
 
@@ -27,11 +26,11 @@ Instalar o pacote de extensão Java no VS CODE.
 
 	- Vá na aba extensões no VS CODE.
  
- ![extensão](https://user-images.githubusercontent.com/59028003/167271661-8e76f24a-50a0-406c-b8d6-606892afd059.PNG)
+ <img src="https://user-images.githubusercontent.com/59028003/167271661-8e76f24a-50a0-406c-b8d6-606892afd059.PNG" style="width:600px">
  
 	- Procure por "Extension Pack for Java".
  
- ![extensionpackforjava](https://user-images.githubusercontent.com/59028003/167271828-a00648e3-86b3-488b-a2bd-e033cc00d2a1.PNG)
+<img src="https://user-images.githubusercontent.com/59028003/167271828-a00648e3-86b3-488b-a2bd-e033cc00d2a1.PNG" style="width:600px">
  
 __5º Passo:__
 
