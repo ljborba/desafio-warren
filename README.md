@@ -10,7 +10,7 @@ Fazer o download do arquivo "Desafio-Warren".
  
  Ou digite no seu terminal o seguinte comando para clonar o repositório.
  
- 	- 
+ 	- gh repo clone ljborba/desafio-warren
 
 __2º Passo:__
 
