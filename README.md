@@ -7,6 +7,10 @@ __1º Passo:__
 Fazer o download do arquivo "Desafio-Warren".
 
  <img src="https://user-images.githubusercontent.com/59028003/167271475-78cf85bf-b7ca-456e-84a8-42594ed41ca1.PNG" style="width: 600px">
+ 
+ Ou digite no seu terminal o seguinte comando para clonar o repositório.
+ 
+ 	- 
 
 __2º Passo:__
 
